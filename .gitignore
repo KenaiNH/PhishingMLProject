@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.log
+/provided_code_workflow/*.csv
+/provided_code_workflow/*.pkl
